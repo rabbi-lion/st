@@ -58,16 +58,6 @@ sudo make clean install
 
 Restart the terminal to use the new build.
 
-## Related repositories
-
-```
-https://github.com/rabbi-lion/dwm-install
-https://github.com/rabbi-lion/dotfiles
-https://github.com/rabbi-lion/dwm
-https://github.com/rabbi-lion/dwmblocks
-https://github.com/rabbi-lion/nsxiv
-```
-
 ## License
 
 This repository retains the original st MIT/X Consortium license.
